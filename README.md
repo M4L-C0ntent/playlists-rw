@@ -23,9 +23,9 @@ The original file is never modified. All operations write to a separate output f
 
 ## Requirements
 
-- `bash` 4.0+
+- `bash` 3.2+
 - `sed` (pre-installed on all Linux/macOS systems)
-- `sqlite3` — only required for `.db` files
+- `sqlite3` — only required for `.db` files (pre-installed on macOS)
 
 ## Installation
 
